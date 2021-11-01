@@ -5,4 +5,4 @@ Deep Learning Scientific Research - Detecting Cardiac pathologies on ECG (electr
 
 ## Research paper 
 
-Link of the reasearch paper is [here](./RAPPORT.pdf)
+Link of the reasearch paper is [here](./REPORT.pdf)
